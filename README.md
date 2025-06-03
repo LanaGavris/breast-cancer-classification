@@ -10,5 +10,5 @@ It includes:
 - Performance evaluation on test set
 
 ## Files
-- `Assignment2_supervised_learning_flow.ipynb` — main notebook
+- `Assignment2.ipynb` — main notebook
 - `cancer_train.csv`, `cancer_test.csv` — dataset
